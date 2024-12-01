@@ -23,7 +23,7 @@ Hey there! I'm a **Computer Science Student (Newbie)** diving into the fascinati
 Feel free to reach out and connect. I'm open to collaborations, advice, or just chatting about tech!
 
 - **GitHub**: [github.com/Purnesh-codes](https://github.com/Purnesh-codes)
-- **LinkedIn**: (SOON)
+- **LinkedIn**: [linkedin.com/Purnesh-amzare](www.linkedin.com/in/purnesh-amzare)
 - **Twitter**: (SOON)
 - **Instagram**: [@purnesh_amzare](https://www.instagram.com/purnesh_amzare) 
 
