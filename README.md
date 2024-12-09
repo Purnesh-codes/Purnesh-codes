@@ -56,4 +56,3 @@ Here's a glimpse of the technologies I'm interested in and exploring:
 ---
 - ## **Feel free to explore, connect, and collaborate** 😺
 
-![Bye](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzUzMmpyc2Rwcm1pYmM2aHY3dmlxcjllYmtsYXg4dDc2eHhsdWM1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dRvEZLV0ORAmHT1L5u/giphy.webp)
