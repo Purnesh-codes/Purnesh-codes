@@ -27,6 +27,8 @@ I'm a **Computer Science student** just starting my exciting journey through the
 
 Currently **learning and exploring** mobile development for both Android and iOS platforms, while diving into the fascinating realm of **Artificial Intelligence**. 
 
+As a **fresher**, I'm passionate about discovering new technologies and eager to build my skills in creating intuitive, user-friendly applications that can shape our digital future.
+
 
 <br clear="right"/>
 
