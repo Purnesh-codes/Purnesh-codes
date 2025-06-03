@@ -8,9 +8,6 @@
 
 ### 💻 Computer Science Student • 🚀 Tech Explorer • 🎨 Design Enthusiast
 
-*Learning and exploring tech world*
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Learning+Mobile+Development;Exploring+AI+%26+ML;Discovering+Web+Technologies;Future+Full+Stack+Developer)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
