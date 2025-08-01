@@ -91,8 +91,6 @@ As a **fresher**, I'm passionate about discovering new technologies and eager to
 
 Whether you want to discuss a project, share ideas, or just chat about technology, I'm always open to connecting with fellow tech enthusiasts!
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 
