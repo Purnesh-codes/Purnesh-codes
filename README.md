@@ -18,8 +18,6 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Boy Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
-
 I'm a **Computer Science student** just starting my exciting journey through the vast world of technology! 
 
 Currently **learning and exploring** mobile development for both Android and iOS platforms, while diving into the fascinating realm of **Artificial Intelligence**. 
