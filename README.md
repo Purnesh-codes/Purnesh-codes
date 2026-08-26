@@ -9,4 +9,4 @@ _I write stuff which machines understand!_
 <img src="https://skillicons.dev/icons?i=react,next,nodejs,tailwind" />
 
 #### Tools
-<img src="https://skillicons.dev/icons?i=vscode,git,github,bash,figma,vercel" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,bash,figma,vercel,postman" />
